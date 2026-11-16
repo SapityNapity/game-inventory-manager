@@ -23,7 +23,7 @@ The program uses a command-line menu to view player inventories, check for speci
 - Functions, parameters, and return values
 - User input and formatted strings
 
-## Technologies
+## Coding Language Used
 
 - Python 3
 
